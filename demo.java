@@ -4,5 +4,6 @@ class demo{
         System.out.println("hello cc");
         int a ;
         int b = 5;
+        int c = 6;
     }
 }
