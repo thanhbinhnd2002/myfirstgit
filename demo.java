@@ -3,5 +3,6 @@ class demo{
         System.out.println("hello world");
         System.out.println("hello cc");
         int a ;
+        int b = 5;
     }
 }
