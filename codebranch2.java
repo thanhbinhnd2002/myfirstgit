@@ -1,3 +1,3 @@
-class demo2{
+class codebranch2{
     private int a;
 }
